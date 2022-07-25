@@ -4,6 +4,7 @@
 *Proyecto final integrador del primer año de la carrera Certified Tech Developer*
 
 **Note: This is the complete project, it is a group project and I mainly participated in the development of the backend and infrastructure**
+
 **Nota: Este es el proyecto completo, es un proyecto grupal y yo participe principalmente en el desarrollo del backend y la infraestructura**
 
 
