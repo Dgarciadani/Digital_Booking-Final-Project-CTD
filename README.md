@@ -1,9 +1,10 @@
 # Certified Tech Developer Digital Booking
 # Un sitio web para encontrar y reservar alojamientos por toda América Latina
 
-## Proyecto final integrador del primer año de la carrera Certified Tech Developer
+*Proyecto final integrador del primer año de la carrera Certified Tech Developer*
 
 **Note: This is the complete project, it is a group project and I mainly participated in the development of the backend and infrastructure**
+**Nota: Este es el proyecto completo, es un proyecto grupal y yo participe principalmente en el desarrollo del backend y la infraestructura**
 
 
 El proyecto es una web app de Booking y reserva de alojamientos: El Frontend consume la API desarrollada por el equipo de Backend, testeada con herramientas de Testing automatizado como Jest y testing manual por el equipo de Testing, así como también su deploy en AWS por el equipo de Infraestructura.
